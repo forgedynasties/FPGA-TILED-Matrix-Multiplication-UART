@@ -1,0 +1,3 @@
+verilog work "Receiver.v"
+verilog work "Baud_Rate_Generator.v"
+verilog work "Top_Module.v"

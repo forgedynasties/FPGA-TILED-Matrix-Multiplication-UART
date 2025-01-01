@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "Z:/DSD/Project_Rec_Done_Tran/tf_isim_beh.exe" -prj "Z:/DSD/Project_Rec_Done_Tran/tf_beh.prj" "work.tf" "work.glbl" 

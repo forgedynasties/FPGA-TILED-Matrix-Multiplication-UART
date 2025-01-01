@@ -1,0 +1,6 @@
+verilog work "Receiver.v"
+verilog work "Baud_Rate_Generator.v"
+verilog work "Transmitter.v"
+verilog work "Top_Module.v"
+verilog work "MAC.v"
+verilog work "Matrix_Mult.v"
