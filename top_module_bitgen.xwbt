@@ -1,8 +1,0 @@
-INTSTYLE=ise
-INFILE=Z:\DSD\Project_Rec_Done_Tran\top_module.ncd
-OUTFILE=Z:\DSD\Project_Rec_Done_Tran\top_module.bit
-FAMILY=Spartan6
-PART=xc6slx16-3csg324
-WORKINGDIR=Z:\DSD\Project_Rec_Done_Tran
-LICENSE=WebPack
-USER_INFO=__0_0_0
